@@ -15,6 +15,8 @@ npm run build && npm start   # production
 ```
 
 
+
+
 ## What's on the homepage
 
 1. **Floating navigation**: capsule bar with wave-lip ends (`.nav-shape` in
